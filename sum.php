@@ -5,7 +5,7 @@ function sum($value1, $value2)
     return $value1 + $value2;
 }
 
-function multiply($param1, $param2) 
+function multiply($value1, $value2) 
 {
-    return $param1 * $param1;
+    return $value1 * $value2;
 }
