@@ -1,0 +1,1 @@
+echo 'Liste des fonctions PHP';
